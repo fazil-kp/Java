@@ -7,9 +7,9 @@
    equilateral, isosceles or scalene and find its area.
    
 3. Read an array of 10 or more numbers and write a program to find the
-      * Smallest element in the array
-      * Largest element in the array
-      * Second largest element in the array
+      * Smallest element in the array.
+      * Largest element in the array.
+      * Second largest element in the array.
    
 4. Write a program to perform base conversion
     *  Integer to binary
